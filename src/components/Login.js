@@ -51,7 +51,7 @@ const Login = () => {
                     }}
             </div>
             <div className='login-component'>
-                <Button variant="contained">Login</Button>
+                <Button variant="contained" onClick={LoginHandler}>Login</Button>
                 <Button variant="contained">Register</Button>
             </div>
         </div>
