@@ -1,0 +1,18 @@
+.userList {
+  display: flex;
+  justify-content: flex-end;
+}
+.userListText {
+  font-size: 40px;
+}
+.searchBar {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.recommendedPeople {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
